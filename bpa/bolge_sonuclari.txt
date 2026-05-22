@@ -1,0 +1,23 @@
+Toplam bolge sayisi: 3
+
+Bolge 0
+  Nokta sayisi : 29108
+  Centroid     : X=-4.174  Y=-8.747  Z=1.483
+  Min bound    : X=-12.175  Y=-16.722  Z=-0.000
+  Max bound    : X=3.500  Y=-0.128  Z=2.950
+  Boyutlar     : 15.675 x 16.594 x 2.950
+----------------------------------------
+Bolge 1
+  Nokta sayisi : 253
+  Centroid     : X=-8.542  Y=-2.752  Z=-0.000
+  Min bound    : X=-9.161  Y=-4.088  Z=-0.000
+  Max bound    : X=-8.081  Y=-1.728  Z=-0.000
+  Boyutlar     : 1.080 x 2.360 x 0.000
+----------------------------------------
+Bolge 2
+  Nokta sayisi : 607
+  Centroid     : X=-7.958  Y=-2.943  Z=2.950
+  Min bound    : X=-9.068  Y=-5.155  Z=2.950
+  Max bound    : X=-7.188  Y=-1.280  Z=2.950
+  Boyutlar     : 1.879 x 3.875 x 0.000
+----------------------------------------
